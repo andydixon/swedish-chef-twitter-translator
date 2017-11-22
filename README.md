@@ -13,3 +13,6 @@ cSecret = 'Consumer Secret'
 atKey = 'Application Token Key'
 
 atSecret = 'Application Token Secret'
+
+
+oh, find and replace realDonaldTrump with whoever you want to translate
